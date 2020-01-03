@@ -1,4 +1,4 @@
-# text-summarization-for-biomedical-domain-content
+# Text-Summarization-For-Biomedical-Domain-Content
 
 Biomedical information in the form of scientific articles and electronic medical
 records is increasing at an alarmingly fast pace. The output of publications in
